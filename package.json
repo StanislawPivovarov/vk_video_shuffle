@@ -1,7 +1,7 @@
 {
   "name": "vkshuffler",
   "version": "0.1.0",
-  "homepage": "https://stanislawpivovarov.github.io/vk_video_shuffler",
+  "homepage": "https://stanislawpivovarov.github.io/vk_video_shuffle",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^6.0.0",
