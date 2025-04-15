@@ -1,0 +1,23 @@
+.header {
+ height: 50px;
+ background-color: var(--vkui--color_separator_primary);
+}
+
+.avatar {
+ border-radius: 50%;
+ height: 32px;
+}
+
+.logo {
+ height: 24px;
+}
+
+.dropdown {
+ width: 12px;
+ height: 8px;
+ margin: 0 8px 0 6px
+}
+
+.logout_btn {
+ color: #fff !important;
+}

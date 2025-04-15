@@ -1,0 +1,44 @@
+:root {
+  --vkui--color_separator_primary: #363738;
+  --vkui--color_background: #141414;
+  --vkui--color_background_modal: #292929;
+  --vkui--color_icon_accent: #71aaeb;
+  --vkui--color_background_content: #222222;
+
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--vkui--color_background);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ .ant-popover-inner {
+  background-color: var(--vkui--color_background_modal) !important;
+  width: 300px;
+}
+.ant-popover-arrow {
+  display: none !important;
+}
+
+.ant-input-affix-wrapper {
+  background-color: #424242 !important;
+  border: none;
+  color: #fff !important;
+}
+
+input {
+  padding-left: 10px !important;
+}
+
+input::placeholder {
+  color: #99A2AD !important;
+}
