@@ -5,7 +5,7 @@ export const BASE_URL = 'https://api.vk.com/method/video.get?v=5.199'
 axios.defaults.withCredentials = true;
 
 const headers = {
- "Content-Type": "multipart/form-data",
+ "Content-Type": "application/x-www-form-urlencodeddata",
  Charset: "utf-8",
 };
 
