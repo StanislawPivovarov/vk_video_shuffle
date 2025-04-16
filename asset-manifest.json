@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vk_video_shuffle/static/css/main.33afd977.css",
-    "main.js": "/vk_video_shuffle/static/js/main.7d46c2fc.js",
+    "main.js": "/vk_video_shuffle/static/js/main.1362e69d.js",
     "static/media/LOGO.svg": "/vk_video_shuffle/static/media/LOGO.fd008a9ae9f1d8c1f40e5badd473e02b.svg",
     "static/media/playlist.svg": "/vk_video_shuffle/static/media/playlist.d39720749a859ac0931b79092176fb13.svg",
     "static/media/exit.svg": "/vk_video_shuffle/static/media/exit.158c9529a574b558a765e01a3f5ce294.svg",
@@ -9,10 +9,10 @@
     "static/media/search.svg": "/vk_video_shuffle/static/media/search.6568f256aea927ba1a6ef5aa138c7b94.svg",
     "static/media/dropdown.svg": "/vk_video_shuffle/static/media/dropdown.da2bb6d5dcee520cea34da334c34da98.svg",
     "main.33afd977.css.map": "/vk_video_shuffle/static/css/main.33afd977.css.map",
-    "main.7d46c2fc.js.map": "/vk_video_shuffle/static/js/main.7d46c2fc.js.map"
+    "main.1362e69d.js.map": "/vk_video_shuffle/static/js/main.1362e69d.js.map"
   },
   "entrypoints": [
     "static/css/main.33afd977.css",
-    "static/js/main.7d46c2fc.js"
+    "static/js/main.1362e69d.js"
   ]
 }
